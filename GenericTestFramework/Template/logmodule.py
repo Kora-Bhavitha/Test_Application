@@ -4,6 +4,7 @@ Test Automation Framework
 """
 
 import logging
+import os
 
 
 class Log:
@@ -11,7 +12,11 @@ class Log:
     Log Module
     """
     def __init__(self, fname, log_level=logging.DEBUG):
-        logging.basicConfig(filename=fname, encoding='utf-8', level=log_level)
+        logging.basicConfig(filename=fname,
+                            datefmt='%Y-%m-%d %H:%M:%S',
+                            format='%(asctime)s %(levelname)-8s %(message)s',
+                            level=log_level)
+
 
     def info(self, msg):
         """

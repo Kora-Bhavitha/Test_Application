@@ -1,100 +1,127 @@
 INFO:root:TestCase Base
+TestCase Base
+INFO:root:Run the Test Case
+Run the Test Case
 INFO:root:TestCase Base
 INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:Run the Test Case
-INFO:root:TestCase Base
-INFO:root:TestCase Base
-INFO:root:TestCase Base
+2021-09-02 13:16:03 INFO     TestCase Base
+2021-09-02 13:16:03 INFO     Run the Test Case
+2021-09-02 13:44:39 INFO     TestCase Base
+2021-09-02 13:44:39 INFO     Run the Test Case
+2021-09-02 13:45:29 INFO     TestCase Base
+2021-09-02 13:45:29 INFO     Run the Test Case
+2021-09-02 13:45:39 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 13:45:39 INFO     ====>Testcase Failed
+2021-09-02 13:49:54 INFO     TestCase Base
+2021-09-02 13:49:54 INFO     Run the Test Case
+2021-09-02 13:49:59 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 13:49:59 INFO     ====>Testcase Failed
+2021-09-02 13:54:18 INFO     TestCase Base
+2021-09-02 13:54:18 INFO     Run the Test Case
+2021-09-02 13:54:36 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 13:54:36 INFO     ====>Testcase Failed
+2021-09-02 15:16:37 INFO     TestCase Base
+2021-09-02 15:16:37 INFO     Run the Test Case
+2021-09-02 15:16:44 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 15:16:44 INFO     ====>Testcase Failed
+2021-09-02 15:16:44 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-02 15:17:10 INFO     
+====>Connection Failed between Mobile APP and NRF Board
+2021-09-02 15:17:10 INFO     
+Testcase Failed
+2021-09-02 15:18:53 INFO     TestCase Base
+2021-09-02 15:19:04 INFO     TestCase Base
+2021-09-02 15:19:04 INFO     Run the Test Case
+2021-09-02 15:19:18 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 15:19:18 INFO     ====>Testcase Failed
+2021-09-02 15:19:18 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-02 15:19:43 INFO     
+====>Connection Failed between Mobile APP and NRF Board
+2021-09-02 15:19:43 INFO     
+Testcase Failed
+2021-09-02 15:57:22 INFO     TestCase Base
+2021-09-02 15:57:22 INFO     Run the Test Case
+2021-09-02 16:03:11 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 16:03:11 INFO     ====>Testcase Failed
+2021-09-02 16:03:11 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-02 16:03:37 INFO     
+====>Connection Failed between Mobile APP and NRF Board
+2021-09-02 16:03:37 INFO     
+Testcase Failed
+2021-09-02 16:03:50 INFO     TestCase Base
+2021-09-02 16:03:50 INFO     Run the Test Case
+2021-09-02 16:03:54 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 16:03:54 INFO     ====>Testcase Failed
+2021-09-02 16:03:54 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-02 16:04:19 INFO     
+====>Connection Failed between Mobile APP and NRF Board
+2021-09-02 16:04:19 INFO     
+Testcase Failed
+2021-09-02 17:25:59 INFO     TestCase Base
+2021-09-02 17:25:59 INFO     Run the Test Case
+2021-09-02 17:26:06 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 17:26:06 INFO     ====>Testcase Failed
+2021-09-02 17:26:06 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-02 17:26:32 INFO     
+====>Connection Failed between Mobile APP and NRF Board
+2021-09-02 17:26:32 INFO     
+Testcase Failed
+2021-09-02 17:28:29 INFO     TestCase Base
+2021-09-02 17:28:29 INFO     Run the Test Case
+2021-09-02 17:28:34 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 17:28:34 INFO     ====>Testcase Failed
+2021-09-02 17:28:34 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-02 17:29:00 INFO     
+====>Connection Failed between Mobile APP and NRF Board
+2021-09-02 17:29:00 INFO     
+Testcase Failed
+2021-09-02 17:36:16 INFO     TestCase Base
+2021-09-02 17:36:16 INFO     Run the Test Case
+2021-09-02 17:36:31 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 17:36:31 INFO     ====>Testcase Failed
+2021-09-02 17:36:31 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-02 17:38:04 INFO     TestCase Base
+2021-09-02 17:38:04 INFO     Run the Test Case
+2021-09-02 17:38:04 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 17:38:04 INFO     ====>Testcase Failed
+2021-09-02 17:38:04 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-02 17:38:29 INFO     
+====>Connection Failed between Mobile APP and NRF Board
+2021-09-02 17:38:29 INFO     
+Testcase Failed
+2021-09-02 17:39:21 INFO     TestCase Base
+2021-09-02 17:39:21 INFO     Run the Test Case
+2021-09-02 17:39:47 INFO     ====>Sorry There is some issue in Staring Advertisement
+2021-09-02 17:39:47 INFO     ====>Testcase Failed
+2021-09-02 17:39:47 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-02 17:40:13 INFO     
+====>Connection Failed between Mobile APP and NRF Board
+2021-09-02 17:40:13 INFO     
+Testcase Failed
