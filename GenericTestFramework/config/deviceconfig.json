@@ -1,5 +1,9 @@
-{
-  "Board"     : "NRF5340",
-  "Transport" : "Serial",
-  "PortNumber": "COM9"
-}
+
+    {
+      "Board"     : "NRF5340",
+      "Transport" : "Serial",
+      "PortNumber": "COM9",
+      "log_message_to_console": "YES"
+    }
+
+

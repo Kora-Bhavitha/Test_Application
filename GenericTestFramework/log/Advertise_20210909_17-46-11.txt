@@ -1,0 +1,4 @@
+2021-09-09 17:46:11 INFO     TestCase Base
+2021-09-09 17:46:11 INFO     Run the Test Case
+2021-09-09 17:46:15 INFO     ====>Advertisement for DIS Application Successfully
+2021-09-09 17:46:15 INFO      Testcase Passed

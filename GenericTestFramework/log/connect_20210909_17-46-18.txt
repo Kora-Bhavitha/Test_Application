@@ -1,0 +1,10 @@
+2021-09-09 17:46:18 INFO     TestCase Base
+2021-09-09 17:46:18 INFO     Run the Test Case
+2021-09-09 17:46:20 INFO     ====>Advertisement for DIS Application Successfully
+2021-09-09 17:46:20 INFO     
+
+Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
+
+2021-09-09 17:46:39 INFO     
+====>Mobile APP and NRF Board Connected Successfullly
+2021-09-09 17:46:39 INFO     Testcase Passed

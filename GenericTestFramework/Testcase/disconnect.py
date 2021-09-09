@@ -15,7 +15,7 @@ class DisconnectTest(TestBase):
     DISConnect TestCase
     """
     def __init__(self):
-        TestBase.log_file_name = r'./log/disconnect.txt'
+        TestBase.log_file_name = r"./log/disconnect_"+TestBase.timestamp+".txt"
         super().__init__()
         sys.path.append(os.getcwd())
 
@@ -49,7 +49,7 @@ class DisconnectTest(TestBase):
 
         self.logger.info("\n\nWaiting for the Mobile App to DISConnect with the Board  MAX Duration : 25 Seconds \n")
         for i in range(100):
-            self.logger.info(".", end="")
+            print(".", end="")
             sys.stdout.flush()
             sleep(0.25)
             data = mytest.dut.confirm_message("DISCONNECT")
