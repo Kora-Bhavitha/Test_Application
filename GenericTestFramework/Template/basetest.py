@@ -2,10 +2,8 @@
 Author : Venkatesan Madappan
 Test Automation Framework
 """
-import logging
+
 import os
-import os.path
-import sys
 import datetime
 
 from Device.nrfboard import NrfBoard
@@ -27,10 +25,6 @@ class TestBase:
         self.config_module.get_config_parameters()
         logfile = os.path.join(os.getcwd(), TestBase.log_file_name)
         self.logger = Log(logfile)
-        if self.config_module.config_data["log_message_to_console"] == "YES":
-            self.logger = logging.getLogger()
-            stdout_handler = logging.StreamHandler(sys.stdout)
-            self.logger.addHandler(stdout_handler)
         if self.config_module.config_data["Board"] == "NRF5340":
             self.dut = NrfBoard()
         else:

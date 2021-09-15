@@ -4,8 +4,7 @@ Test Automation Framework
 """
 
 import logging
-import os
-
+import sys
 
 class Log:
     """
@@ -16,6 +15,10 @@ class Log:
                             datefmt='%Y-%m-%d %H:%M:%S',
                             format='%(asctime)s %(levelname)-8s %(message)s',
                             level=log_level)
+
+        self.logger = logging.getLogger()
+        stdout_handler = logging.StreamHandler(sys.stdout)
+        self.logger.addHandler(stdout_handler)
 
 
     def info(self, msg):
