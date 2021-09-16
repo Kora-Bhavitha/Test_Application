@@ -1,9 +1,0 @@
-2021-09-04 11:03:20 INFO     TestCase Base
-2021-09-04 11:03:36 INFO     TestCase Base
-2021-09-04 11:03:36 INFO     Run the Test Case
-2021-09-04 11:03:42 INFO     ====>Sorry There is some issue in Staring Advertisement
-2021-09-04 11:03:42 INFO     ====>Testcase Failed
-2021-09-04 11:03:42 INFO     
-
-Waiting for the Mobile App to Connect with the Board  MAX Duration : 25 Seconds 
-

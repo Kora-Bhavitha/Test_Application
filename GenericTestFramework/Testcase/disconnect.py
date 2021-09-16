@@ -14,8 +14,8 @@ class DisconnectTest(TestBase):
     """
     DISConnect TestCase
     """
+
     def __init__(self):
-        TestBase.log_file_name = r"./log/disconnect_"+TestBase.timestamp+".txt"
         super().__init__()
         sys.path.append(os.getcwd())
 

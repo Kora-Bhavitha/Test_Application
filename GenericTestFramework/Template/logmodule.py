@@ -20,7 +20,6 @@ class Log:
         stdout_handler = logging.StreamHandler(sys.stdout)
         self.logger.addHandler(stdout_handler)
 
-
     def info(self, msg):
         """
         Information Messages

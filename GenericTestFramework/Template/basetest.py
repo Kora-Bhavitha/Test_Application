@@ -23,6 +23,7 @@ class TestBase:
         filename = os.path.join(os.getcwd(), './config/deviceconfig.json')
         self.config_module = ConfigModule(filename)
         self.config_module.get_config_parameters()
+        TestBase.log_file_name = r"./log/" + self.__class__.__name__ + "_" + TestBase.timestamp + ".txt"
         logfile = os.path.join(os.getcwd(), TestBase.log_file_name)
         self.logger = Log(logfile)
         if self.config_module.config_data["Board"] == "NRF5340":
